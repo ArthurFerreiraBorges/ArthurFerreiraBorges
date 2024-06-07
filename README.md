@@ -8,9 +8,6 @@
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ferrera&theme=youtube-dark)](https://git.io/streak-stats)
 
-[![wakatime](https://wakatime.com/badge/user/018e3f91-aa3d-4aa8-92b4-71fa85a0fd74.svg)](https://wakatime.com/@018e3f91-aa3d-4aa8-92b4-71fa85a0fd74)
-![Visitas ao perfil](https://komarev.com/ghpvc/?username=ArthurFerreiraBorges)
-
 
 </div>
 
